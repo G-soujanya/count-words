@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/count-words/static/css/main.f41eacfe.css",
+    "main.js": "/count-words/static/js/main.10957425.js",
+    "static/js/787.268f3565.chunk.js": "/count-words/static/js/787.268f3565.chunk.js",
+    "index.html": "/count-words/index.html",
+    "main.f41eacfe.css.map": "/count-words/static/css/main.f41eacfe.css.map",
+    "main.10957425.js.map": "/count-words/static/js/main.10957425.js.map",
+    "787.268f3565.chunk.js.map": "/count-words/static/js/787.268f3565.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f41eacfe.css",
+    "static/js/main.10957425.js"
+  ]
+}
